@@ -50,7 +50,7 @@ function UsingProps() {
                 Price: {item.price}$
               </p>
               <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 w-[218px] cursor-cell  rounded mx-4 mb-8">
-                  Buy Now
+                  Buy  Now
               </button>
               <div className="flex items-center gap-4 px-4 absolute bottom-2 justify-end w-full">
                 <p className="text-[#9A9AB0] text-[12px] leading-[110%] tracking-[0.8%]">
